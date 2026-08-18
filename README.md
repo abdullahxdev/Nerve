@@ -337,7 +337,7 @@ We build strictly left to right  **no AI until the infrastructure is solid.**
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/yourusername/nerve.git
+git clone https://github.com/abdullahxdev/nerve.git
 cd nerve
 ```
 
@@ -540,7 +540,7 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information
 
 <div align="center">
 
-Built with obsession by **[@yourusername](https://github.com/yourusername)**
+Built with obsession by **[@abdullahxdev](https://github.com/abdullahxdev)**
 
 *"The best on-call engineer is the one that's already awake."*
 
