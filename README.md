@@ -540,7 +540,7 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information
 
 <div align="center">
 
-Built with obsession by **[@abdullahxdev](https://github.com/abdullahxdev)**
+Built with obsession by **[Muhammad Abdullah](https://github.com/abdullahxdev)**
 
 *"The best on-call engineer is the one that's already awake."*
 
