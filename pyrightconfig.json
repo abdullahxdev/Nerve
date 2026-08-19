@@ -1,0 +1,8 @@
+{
+  "venvPath": "/Users/abdullah/Development/Projects/nerve/backend",
+  "venv": ".venv",
+  "pythonVersion": "3.13",
+  "pythonPlatform": "Darwin",
+  "include": ["backend"],
+  "exclude": ["**/__pycache__", "**/.venv"]
+}
